@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "super-dawn-8874",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "1f9e2708-56e4-4e75-bd24-07ab189f3ba3",
+      "database_name": "hidden-mud-a325-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
